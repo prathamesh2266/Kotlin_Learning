@@ -33,6 +33,17 @@ fun main(){
         else -> "the number is odd "
     }
 
+    // val number = 5
+    // val result = if (number % 2 == 0){
+    //     "Even"
+    // }else if (number == null){               // Example of if-elseif-else with assigning value to result
+    //     "Value is null"
+    // }
+    // else{
+    //     "odd"
+    // }
+    // println(result)
+
 
 }
 //val output = when {   // we can also do this like that because when we use the upper one then we cannot check if (inoutasint % 2 == 0)
