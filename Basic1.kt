@@ -29,7 +29,7 @@ fun main(){
         3 -> "the number is 3"		// and we can also assign something directly
         5 -> "the number is 5"
         in 10..20 -> "the number is between 10 and 20"	// this checks if the number is between 10 - 20 // the code checks everything line by line so if something is matched then its terminated there
-        //(inputasint % 2 == 0) -> "the number is even" // refer to line 38
+        //(inputasint % 2 == 0) -> "the number is even" // refer to line 49
         else -> "the number is odd "
     }
 
